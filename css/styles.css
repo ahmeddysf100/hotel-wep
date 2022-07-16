@@ -4,11 +4,13 @@
 
 
 .img-background{
-    background-image: url('/images/pexels-martin-damboldt-814499.jpg');
+    background-image:url('/images/pexels-martin-damboldt-814499.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
     overflow: hidden;
+   
+    
 }
 
 .sec-col{
