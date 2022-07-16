@@ -1,0 +1,21 @@
+.body{
+    text-align: center;
+}
+
+
+.img-background{
+    background-image: url('/images/pexels-martin-damboldt-814499.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.sec-col{
+    margin-right: 0;
+    padding-right: 0;
+}
+
+
+#front-img{
+   
+}
