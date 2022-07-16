@@ -1,5 +1,6 @@
-.body{
+body{
     text-align: center;
+    font-family: 'Playfair Display SC';
 }
 
 
@@ -9,9 +10,29 @@
     background-repeat: no-repeat;
     height: 100vh;
     overflow: hidden;
-   
-    
 }
 
+#front-img{
+    font-family: 'Playfair Display SC';
+}
 
+.nav-btn{
+    background-color: rgb(184, 255, 176);
+}
 
+.nav-link{
+    color: #68fa7ee0 !important;
+    font-weight: 900;
+}
+
+.title{
+    position: absolute;
+    bottom: 200px;
+    left: 600px;
+    color: #68FA7E;
+    font-family: 'Playfair Display SC' , serif;
+    font-weight: 900;
+    font-size: ;
+    
+
+}
