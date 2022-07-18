@@ -3,6 +3,9 @@ body{
     font-family: 'Playfair Display SC';
 }
 
+.p1{
+    font-family: 'Source Sans Pro', sans-serif;
+}
 
 .img-background{
     background-size: cover;
@@ -24,20 +27,35 @@ body{
 .nav-link{
     color: #68fa7ee0 !important;
     font-weight: 900;
+
     
 }
 
-.sec-loc{
-    z-index: 0;
-}
+
 
 .title{
-    position: absolute;
-    bottom: 300px;
     color: #68FA7E;
     font-family: 'Playfair Display SC' , serif;
     font-weight: 900;
     
-    
+}
+ /* feutures */
+#carouselId{
+    width: 30%;
+}
 
+.dineer{
+    width: 120%;
+}
+
+.p1{
+    text-align: left;
+    line-height: 1.5;
+    margin:10% ;
+    color: #38664C;
+}
+
+#feutures{
+    background-color:#68fa7e6d ;
+    
 }
