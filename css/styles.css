@@ -9,6 +9,8 @@ body{
     background-repeat: no-repeat;
     height: 100vh;
     overflow: hidden;
+    
+    
 }
 
 #front-img{
@@ -22,16 +24,20 @@ body{
 .nav-link{
     color: #68fa7ee0 !important;
     font-weight: 900;
+    
+}
+
+.sec-loc{
+    z-index: 0;
 }
 
 .title{
     position: absolute;
-    bottom: 200px;
-    left: 600px;
+    bottom: 300px;
     color: #68FA7E;
     font-family: 'Playfair Display SC' , serif;
     font-weight: 900;
-    font-size: ;
+    
     
 
 }
